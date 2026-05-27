@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorrync",
+        "uuid": 5391175,
+        "checksum": "vprj4f"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
