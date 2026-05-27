@@ -1,0 +1,13 @@
+body { background: #85e83; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 54px; display: flex; }
+.block-order-0 { color: #5c4cc2; font-size: 15px; margin-bottom: 5px; }
+.block-cluster-1 { color: #5dc820; font-size: 12px; margin-bottom: 5px; }
+.block-uploader-2 { color: #fdc8a1; font-size: 19px; margin-bottom: 5px; }
+.block-helper-3 { color: #d91d1c; font-size: 14px; margin-bottom: 5px; }
+.block-auth-4 { color: #3c3378; font-size: 18px; margin-bottom: 5px; }
+.block-uploader-5 { color: #494c54; font-size: 19px; margin-bottom: 5px; }
+.block-filter-6 { color: #eb4e6c; font-size: 14px; margin-bottom: 5px; }
+.block-config-7 { color: #e6d066; font-size: 13px; margin-bottom: 5px; }
+.block-router-8 { color: #4009df; font-size: 17px; margin-bottom: 5px; }
+.block-cache-9 { color: #207ac3; font-size: 15px; margin-bottom: 5px; }
+.block-search-10 { color: #74b801; font-size: 17px; margin-bottom: 5px; }
